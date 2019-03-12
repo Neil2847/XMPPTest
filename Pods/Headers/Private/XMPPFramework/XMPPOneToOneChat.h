@@ -1,0 +1,1 @@
+../../../XMPPFramework/Extensions/OneToOneChat/XMPPOneToOneChat.h
